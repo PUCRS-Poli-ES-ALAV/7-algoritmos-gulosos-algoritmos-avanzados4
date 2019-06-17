@@ -9,5 +9,5 @@ e 4 de valor 1.
 
 * Objetivo: contrua um algorítmo que recebe a lista das moedas disponíveis e um valor, e retorna uma lista com a menor
 quantidade de moedas para este troco;
-* Defina uma assinatura adequada para este método;
-* Utiliza uma abordagem gulosa (se puder).
+** Defina uma assinatura adequada para este método;
+** Utiliza uma abordagem gulosa (se puder).
