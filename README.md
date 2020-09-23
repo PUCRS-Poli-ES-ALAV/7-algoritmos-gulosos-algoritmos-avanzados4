@@ -2,7 +2,7 @@
 
 ## Problema do Troco
 
-1) Suponha que tenhamos disponíveis moedas com certos valores (por exemplo, de 100, 25, 10, 5 e 1). O problema do
+Suponha que tenhamos disponíveis moedas com certos valores (por exemplo, de 100, 25, 10, 5 e 1). O problema do
 troco consiste criar um algoritmo que para conseguir obter um determinado valor com o menor número de moedas ´
 possível.
 Por exemplo, para “dar um troco” de R$2,89, a melhor solução, isto é, o menor número de 
@@ -13,6 +13,8 @@ e 4 de valor 1.
 quantidade de moedas para este troco;
   * Defina uma assinatura adequada para este método;
   * Utiliza uma abordagem gulosa (se puder).
+  * Contabilize e exiba o número de iterações para cada caso de teste.
+  * O exercício pode ser feito em grupos de um, dois ou três elementos.
 
 ## Escalonamento de Intervalos
 
