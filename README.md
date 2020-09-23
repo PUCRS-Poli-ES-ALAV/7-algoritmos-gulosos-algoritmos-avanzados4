@@ -1,6 +1,6 @@
 # Algoritmos Gulosos
 
-##Problema do Troco
+## Problema do Troco
 
 1) Suponha que tenhamos disponíveis moedas com certos valores (por exemplo, de 100, 25, 10, 5 e 1). O problema do
 troco consiste criar um algoritmo que para conseguir obter um determinado valor com o menor número de moedas ´
