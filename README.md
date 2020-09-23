@@ -12,8 +12,8 @@ e 4 de valor 1.
 1) **Objetivo:** contrua um algorítmo que recebe a lista das moedas disponíveis e um valor, e retorna uma lista com a menor
 quantidade de moedas para este troco;
   * Defina uma assinatura adequada para este método;
-  * Utiliza uma abordagem gulosa (se puder).
-  * Contabilize e exiba o número de iterações para cada caso de teste.
+  * Utiliza uma abordagem gulosa (se puder);
+  * Contabilize e exiba o número de iterações para cada caso de teste;
   * O exercício pode ser feito em grupos de um, dois ou três elementos.
 
 ## Escalonamento de Intervalos
@@ -94,4 +94,5 @@ SDM-Guloso (s, f, n)
 2) **Assim:**
 
 * Implemente e teste uma solução para o problema descrito, usando aboradagem gulosa, como descrita;
+* Contabilize e exiba o número de iterações para cada caso de teste;
 * O exercício pode ser feito em grupos de um, dois ou três elementos.
